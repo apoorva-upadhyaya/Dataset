@@ -6,4 +6,4 @@ Stance of the tweet is identified using a label propagation algorithm (). Sentim
 The repository consists of the following files:
 1. dataset.csv: is a ";" separated file that contains tweet ids, sentiment label(positive/negative/neutral) and stance label(believe/deny)
 2. tweet_ids.txt: contains the tweet ids of all the collected tweets.
-3. fetch_tweet.py: python script to collect the tweet object as it is not allowed to share the tweet text publicly.
+3. fetch_tweets.py: python script to collect the tweet object as it is not allowed to share the tweet text publicly.
